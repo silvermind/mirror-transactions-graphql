@@ -1,0 +1,19 @@
+{
+   "id":496202,
+   "height":1659963,
+   "txHash":"E717A36A178516539433F55D6AD24E224D255F4EB28BF655D52D6BEACC3B81BD",
+   "address":"terra1gnt9cqr42d3nfd3hccyle2e0d9ypnsg9erl4fh",
+   "type":"DEPOSIT_COLLATERAL",
+   "data":{
+      "positionIdx":"2532",
+      "depositAmount":"150000000uusd"
+   },
+   "token":"uusd",
+   "datetime":"2021-02-03T22:47:49.678Z",
+   "fee":"911718uusd",
+   "tags":[
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-03T22:47:57.703Z"
+}

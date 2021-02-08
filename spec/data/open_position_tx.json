@@ -1,0 +1,21 @@
+{
+   "id":497779,
+   "height":1661141,
+   "txHash":"0FB5D9218B42220DC46087D7C698195F2A91D51FC36ED806C007E4C96A947E94",
+   "address":"terra14gg6f0vunadasr650qtsuqy344u5nrpqe5klq3",
+   "type":"OPEN_POSITION",
+   "data":{
+      "mintAmount":"759122terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
+      "positionIdx":"2598",
+      "collateralAmount":"700000000uusd"
+   },
+   "token":"terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
+   "datetime":"2021-02-04T00:54:36.252Z",
+   "fee":"1403835uusd",
+   "tags":[
+      "terra1jsxngqasf2zynj5kyh0tgq9mj3zksa5gk35j4k",
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-04T00:54:45.745Z"
+}

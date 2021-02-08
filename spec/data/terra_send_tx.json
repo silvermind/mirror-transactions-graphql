@@ -1,0 +1,21 @@
+{
+   "id":572681,
+   "height":1714126,
+   "txHash":"E55A514C01BD752D701656439DD23B90007959D41C51815571F3B84632715FF6",
+   "address":"terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
+   "type":"TERRA_SEND",
+   "data":{
+      "to":"terra1ykevv8ug5ag9gt2en0lgkd87rryk536w55r56m",
+      "from":"terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
+      "denom":"uusd",
+      "amount":"10000000000"
+   },
+   "token":null,
+   "datetime":"2021-02-08T00:25:08.009Z",
+   "fee":"566uluna,1402835uusd",
+   "tags":[
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-08T00:25:17.060Z"
+}

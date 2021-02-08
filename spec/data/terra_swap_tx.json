@@ -1,0 +1,23 @@
+{
+   "id":108010,
+   "height":1165767,
+   "txHash":"E5D957FA2BADC5D9D1350D624231D84235CCA8573CA704CEB8899575CB34EE19",
+   "address":"terra1rczhd8xxluxc36g9a8rsfuy3qdwjfl6y6qjzja",
+   "type":"TERRA_SWAP",
+   "data":{
+      "offer":"35492240uusd",
+      "trader":"terra1rczhd8xxluxc36g9a8rsfuy3qdwjfl6y6qjzja",
+      "swapFee":"279587.128601136159062685uluna",
+      "swapCoin":"55637796uluna",
+      "recipient":"terra1rczhd8xxluxc36g9a8rsfuy3qdwjfl6y6qjzja"
+   },
+   "token":null,
+   "datetime":"2020-12-29T07:19:59.131Z",
+   "fee":"829uluna",
+   "tags":[
+      "uusd",
+      "uluna"
+   ],
+   "memo":"",
+   "createdAt":"2020-12-29T07:20:06.698Z"
+}

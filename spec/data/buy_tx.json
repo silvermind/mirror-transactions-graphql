@@ -1,0 +1,27 @@
+{
+   "id":533699,
+   "height":1682640,
+   "txHash":"351E94F9CA4036550919DCC63E3F78E5679A6A6F91A7CDFA5F0302B672388569",
+   "address":"terra18w7z9prrjzncz3mkqh7e65q3mc6j386y0qyw9a",
+   "type":"BUY",
+   "data":{
+      "price":"163.548425",
+      "askAsset":"terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz",
+      "taxAmount":"0",
+      "offerAsset":"uusd",
+      "recvAmount":"6114397",
+      "offerAmount":"1000000000",
+      "returnAmount":"6114397",
+      "spreadAmount":"2089",
+      "commissionAmount":"18398"
+   },
+   "token":"terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz",
+   "datetime":"2021-02-05T15:46:47.631Z",
+   "fee":"1439530uusd",
+   "tags":[
+      "uusd",
+      "terra1vxtwu4ehgzz77mnfwrntyrmgl64qjs75mpwqaz"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-05T15:46:55.690Z"
+}

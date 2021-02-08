@@ -1,0 +1,20 @@
+{
+   "id":487912,
+   "height":1655772,
+   "txHash":"E1012276770FA03AA7B75FF8DF5EDC54B672CB4A284EF3298B2DA6ECAF1998CC",
+   "address":"terra1vncxandagnrtdczdkea8puj5j5d3g3qcj85egk",
+   "type":"WITHDRAW_LIQUIDITY",
+   "data":{
+      "refundAssets":"104123143572uusd, 27554746terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+      "withdrawnShare":"1672906648"
+   },
+   "token":"terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+   "datetime":"2021-02-03T15:16:43.124Z",
+   "fee":"1000uusd",
+   "tags":[
+      "terra165nd2qmrtszehcfrntlplzern7zl4ahtlhd5t2",
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-03T15:16:51.563Z"
+}

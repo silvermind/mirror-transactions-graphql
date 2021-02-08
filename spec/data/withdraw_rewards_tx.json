@@ -1,0 +1,18 @@
+{
+   "id":487790,
+   "height":1655730,
+   "txHash":"92D49E9C003BC6EB234770E1EE8C3EDB188B5DDF99547A57CE2AA60F4B1AB43B",
+   "address":"terra1vncxandagnrtdczdkea8puj5j5d3g3qcj85egk",
+   "type":"WITHDRAW_REWARDS",
+   "data":{
+      "amount":"29375507"
+   },
+   "token":"terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
+   "datetime":"2021-02-03T15:12:08.938Z",
+   "fee":"1000uusd",
+   "tags":[
+      "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-03T15:12:17.364Z"
+}

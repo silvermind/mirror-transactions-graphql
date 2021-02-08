@@ -1,0 +1,21 @@
+{
+   "id":575659,
+   "height":1716606,
+   "txHash":"FB1916B4EBA4FB9268C70F7EC3E588600B6213B5278C0D1AEC63043C0E66A793",
+   "address":"terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
+   "type":"TERRA_RECEIVE",
+   "data":{
+      "to":"terra13yxhrk08qvdf5zdc9ss5mwsg5sf7zva9xrgwgc",
+      "from":"terra1hhmmu0hqx9ge7f8tcype4r6szvy3tfdpjcc5hr",
+      "denom":"uusd",
+      "amount":"51865000000"
+   },
+   "token":null,
+   "datetime":"2021-02-08T04:53:37.342Z",
+   "fee":"0uusd",
+   "tags":[
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-02-08T04:53:48.259Z"
+}

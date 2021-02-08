@@ -1,0 +1,20 @@
+{
+   "id":373675,
+   "height":1609587,
+   "txHash":"548BEBD21B3E8F8F67D845428A674A6D0172D4201A9295B2F8A97CB60DD85C1A",
+   "address":"terra13q8v8c3ee67fvag33n7zyws0dex5y4tvrq59rr",
+   "type":"RECEIVE",
+   "data":{
+      "to":"terra13q8v8c3ee67fvag33n7zyws0dex5y4tvrq59rr",
+      "from":"terra1rvxcszyfecrt2v3a7md8p30hvu39kj6xf48w9e",
+      "amount":"43400000"
+   },
+   "token":"terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6",
+   "datetime":"2021-01-31T04:25:09.964Z",
+   "fee":"0uusd",
+   "tags":[
+      "terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6"
+   ],
+   "memo":null,
+   "createdAt":"2021-01-31T04:25:17.592Z"
+}

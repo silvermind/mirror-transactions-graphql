@@ -1,0 +1,21 @@
+{
+   "id":199764,
+   "height":1385917,
+   "txHash":"A7F0910951C81C7F5E434098F90A123B9E3FCD71A64D3A2959AAD2769B23C86C",
+   "address":"terra13d6lslceeshqwg86xcv8dnnme4r68vg86aeaqx",
+   "type":"WITHDRAW_COLLATERAL",
+   "data":{
+      "taxAmount":"1402835uusd",
+      "positionIdx":"152",
+      "withdrawAmount":"6895000000uusd",
+      "protocolFeeAmount":"105000000uusd"
+   },
+   "token":"uusd",
+   "datetime":"2021-01-14T14:12:25.461Z",
+   "fee":"1000uusd",
+   "tags":[
+      "uusd"
+   ],
+   "memo":null,
+   "createdAt":"2021-01-14T14:12:32.810Z"
+}
